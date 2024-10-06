@@ -1,2 +1,21 @@
-·{"todos":[{"id":"2","title":"new title 2","doneStatus":"false","description":""},{"id":"1","title":"scan paperwork","doneStatus":"false","description":"","categories":[{"id":"1"}]}]}
+5{"errorMessages":["Invalid GUID for 7 entity todo"]}
 
+{"todos":[]}
+
+>{"categories":[{"id":"1","title":"Office","description":""}]}
+A{"errorMessages":["Could not find thing matching value for Id"]}
+	6{"errorMessages":["Invalid GUID for 32 entity todo"]}
+
+
+\{"id":"1","title":"Updated Title","doneStatus":"false","description":"Updated Description"}
+O{"errorMessages":["Could not find any instances with todos/1/categories/999"]}
+Ì{"todos":[{"id":"1","title":"Updated Title","doneStatus":"false","description":"Updated Description"},{"id":"3","title":"s aute irure dolor i","doneStatus":"false","description":"sse cillum dolore eu"}]}
+X{"id":"1","title":"New Title","doneStatus":"false","description":"Updated Description"}
+>{"errorMessages":["Could not find an instance with todos/8"]}
+{"projects":[]}
+K{"errorMessages":["No such todo entity instance with GUID or ID 7 found"]}
+d{"todos":[{"id":"1","title":"New Title","doneStatus":"false","description":"Updated Description"}]}
+d{"id":"5","title":"s aute irure dolor i","doneStatus":"false","description":"sse cillum dolore eu"}
+
+F{"errorMessages":["Failed Validation: doneStatus should be BOOLEAN"]}
+Ã{"todos":[{"id":"1","title":"New Title","doneStatus":"false","description":"Updated Description","tasksof":[{"id":"1"}]},{"id":"3","title":"s aute irure dolor i","doneStatus":"false","description":"sse cillum dolore eu"},{"id":"5","title":"s aute irure dolor i","doneStatus":"false","description":"sse cillum dolore eu"}]}
